@@ -1,6 +1,10 @@
 h1{
     color: #007bff;
 }
+h2{
+    color: white;
+    background-color: #007bff;
+}
 footer {
     text-align: center;
     padding: 3px;
