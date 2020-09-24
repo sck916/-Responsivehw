@@ -1,11 +1,6 @@
-<style>
-body {
-  background-image: url("1722.jpg");
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: cover;
+.img1{
+    float: left;
 }
-</style>
 li{
     color: #007bff;
 }
@@ -23,6 +18,8 @@ footer {
     color: white;
   }
   .card-img-6{
-      float: left;
+      float: right
+      ;}
 
-  }
+  
+    }
