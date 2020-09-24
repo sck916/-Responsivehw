@@ -1,3 +1,11 @@
+<style>
+body {
+  background-image: url("1722.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+</style>
 li{
     color: #007bff;
 }
@@ -13,4 +21,8 @@ footer {
     padding: 3px;
     background-color: darkgray;
     color: white;
+  }
+  .card-img-6{
+      float: left;
+
   }
