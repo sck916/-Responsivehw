@@ -1,6 +1,6 @@
-/* .img{
-    float: left;
-} */
+body{
+    background-image: url(img/background.jpg);
+}
 li{
     color: #007bff;
 }
